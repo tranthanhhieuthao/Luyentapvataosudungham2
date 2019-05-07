@@ -91,8 +91,6 @@
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/Ứng dụng vui Faking Textarea on Typing.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/Ứng dụng vui Faking Textarea on Typing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.html" afterDir="false" />
@@ -247,12 +245,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557222810125</updated>
       <workItem from="1557222811201" duration="3240000" />
-      <workItem from="1557240352566" duration="4646000" />
+      <workItem from="1557240352566" duration="4907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7886000" />
+    <option name="totallyTimeSpent" value="8147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="325" y="10" width="1132" height="992" extended-state="0" />
