@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<b>TÍNH DIỆN TÍCH , CHU VI HÌNH TRÒN</b>
+<br/>
+Nhập bán kính:<span><input type="number" oninput="ham(this.value)"></span>
+<br/>
+<br/>
+Diện tích hình tròn: <span id="dientich"></span>
+<br/>
+<br/>
+Chu vi hình tròn:    <span id="chuvi"></span>
+<script>
+    function ham(number) {
+        let dientich= Math.PI*number*number;
+        let chuvi=2*Math.PI*number;
+        document.getElementById("dientich").innerHTML=dientich;
+        document.getElementById("chuvi").innerHTML=chuvi;
+    }
+</script>
+</body>
+</html>

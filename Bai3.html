@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<b>TÍNH GIAI THỪA</b>
+<br/>
+<br/>
+Nhập số:<input type="number" oninput="ham(this.value)"/>
+<br/>
+<br/>
+Result:<span id="ketqua"></span>
+<script>
+    function ham(number) {
+        let total=1;
+        for (let i=1;i<=number;i++){
+            total = total *i;
+        }
+       document.getElementById("ketqua").innerHTML= total;
+    }
+</script>
+</body>
+</html>

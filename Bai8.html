@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<script>
+    function daoham(Array) {
+        let tempt;
+        let count=Array.length;
+        for (let i=0;i<count/2;i++){
+            tempt=Array[i];
+            Array[i]=Array[count-1];
+            Array[count-1]=tempt;
+            count--;
+        }
+        return Array;
+    }
+    let mang=[];
+    for (let i=0;i<6;i++) {
+        let nhapso = prompt("Nhập kí tự số");
+        mang.push(nhapso);
+    }
+    let ketqua=daoham(mang);
+    document.write(ketqua.valueOf());
+</script>
+</body>
+</html>

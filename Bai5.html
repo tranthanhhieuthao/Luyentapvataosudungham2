@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<script>
+    function hamMin() {
+        let min=arguments[0];
+        for (let i=0;i<arguments.length;i++){
+            if (min>arguments[i]) {
+                min=arguments[i];
+            }
+        }
+        return "giá trị nhỏ nhất là"+min;
+    }
+    let number1=prompt("Nhập số thứ 1");
+    let number2=prompt("Nhập số thứ 2");
+    let number3=prompt("Nhập số thứ 3");
+    let ketqua=hamMin(number1,number2,number3);
+    alert(ketqua);
+</script>
+</body>
+</html>

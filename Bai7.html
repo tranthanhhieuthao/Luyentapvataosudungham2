@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+Trước khi đổi chỗ:
+<br/>
+<span id="truocdoi"></span>
+<br/>
+<br/>
+Sau khi đổi chỗ:
+<br/>
+<span id="saudoi"></span>
+<script>
+    function hamSwap() {
+        let tempt=arguments[0];
+        arguments[0]=arguments[1];
+        arguments[1]=tempt;
+        return "number1="+" "+arguments[0]+"<br/>"+"number2="+" "+arguments[1];
+    }
+    let number1=prompt("Nhập số thứ 1");
+    let number2=prompt("Nhập số thứ 2");
+    document.getElementById("truocdoi").innerHTML="number1="+" "+number1+"<br/>"+"number2="+" "+number2;
+    let ketqua=hamSwap(number1,number2);
+    document.getElementById("saudoi").innerHTML=ketqua;
+</script>
+</body>
+</html>
