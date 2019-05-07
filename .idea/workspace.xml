@@ -68,20 +68,6 @@
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/[Bài tập] Luyện tập tạo và sử dụng hàm 02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai9.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../git/my-new-project/my-new.project/my-new.project" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/misc.xml" afterDir="false" />
@@ -105,6 +91,8 @@
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/Ứng dụng vui Faking Textarea on Typing.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/Ứng dụng vui Faking Textarea on Typing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.html" afterDir="false" />
@@ -185,7 +173,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -259,18 +247,17 @@
       <option name="presentableId" value="Default" />
       <updated>1557222810125</updated>
       <workItem from="1557222811201" duration="3240000" />
-      <workItem from="1557240352566" duration="3801000" />
+      <workItem from="1557240352566" duration="4646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7041000" />
+    <option name="totallyTimeSpent" value="7886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="325" y="10" width="1132" height="992" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24976958" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24976958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +269,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32889965" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
